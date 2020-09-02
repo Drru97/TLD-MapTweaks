@@ -1,0 +1,24 @@
+# User-specific files
+*.suo
+*.user
+
+# Build output
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+[Xx]64/
+[Xx]86/
+[Bb]uild/
+
+# VS cache files
+.vs/
+
+# Rider workspace files
+.idea/
+*.sln.DotSettings.user
+
+# Dynamic-linked libraries
+*.dll
